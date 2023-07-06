@@ -23,7 +23,8 @@ Além do meu envolvimento na área de tecnologia, tenho uma variedade de hobbies
 - **Natureza** 
 
 ## **Contato**
-[![Ícone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonamoral2@gmail.com)
+[![Ícone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonevangelista.ti@gmail.com
+)
 
 [![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-evangelista-688010176/)
 
