@@ -1,16 +1,32 @@
-### Hi there 👋
+﻿# **Sobre Mim**
 
-<!--
-**andersonafr0/andersonafr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou graduando em Análise e Desenvolvimento de Sistemas e sempre que posso faço cursos extracurriculares para aperfeiçoar meu desenvolvimento na área TECH.
+Estagiário em Aws Cloud Data Engineering pela Compass.UOL, onde esta sendo uma experiência incrivel para mim pois estou adquirindo variados conhecimentos sobre engenharia de dados e tecnologias em nuvem.
 
-Here are some ideas to get you started:
+## **Aprendizagem em andamento....**
+*  Git e GitHub do básico ao avançado (c/ gist e GitHub Pages) 
+*  Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Hobbies**
+
+Além do meu envolvimento na área de tecnologia, tenho uma variedade de hobbies que me ajudam a relaxar e me inspirar. Alguns dos meus hobbies favoritos são:
+
+-  **Basquete** 
+
+* **Ciclismo** 
+
+- **Filmes** 
+
+- **Games** 
+
+- **Livros** 
+
+- **Natureza** 
+
+### **Contato**
+[![Ícone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonamoral2@gmail.com)
+
+[![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-evangelista-688010176/)
+
+[![Ícone do Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonafr0)
+
