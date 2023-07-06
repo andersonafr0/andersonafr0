@@ -1,5 +1,3 @@
-﻿# **Sobre Mim**
-
 Olá, sou graduando em Análise e Desenvolvimento de Sistemas e sempre que posso faço cursos extracurriculares para aperfeiçoar meu desenvolvimento na área TECH.
 Estagiário em Aws Cloud Data Engineering pela Compass.UOL, onde esta sendo uma experiência incrivel para mim pois estou adquirindo variados conhecimentos sobre engenharia de dados e tecnologias em nuvem.
 
