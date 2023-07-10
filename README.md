@@ -1,5 +1,5 @@
 ##
-u graduando em Análise e Desenvolvimento de Sistemas 
+Graduando em Análise e Desenvolvimento de Sistemas 
 Estagiário em Aws Cloud Data Engineering pela Compass.UOL
 
 ## **Contato**
