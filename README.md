@@ -1,7 +1,7 @@
 ##
-*Graduando em Análise e Desenvolvimento de Sistemas 
+**Graduando em Análise e Desenvolvimento de Sistemas 
 
-*Estagiário em Aws Cloud Data Engineering pela Compass.UOL
+**Estagiário em Aws Cloud Data Engineering pela Compass.UOL
 
 ## **Contato**
 [![Ícone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonevangelista.ti@gmail.com
