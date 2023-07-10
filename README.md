@@ -1,6 +1,6 @@
 ##
-Olá, sou graduando em Análise e Desenvolvimento de Sistemas e sempre que posso faço cursos extracurriculares para aperfeiçoar meu desenvolvimento na área TECH.
-Estagiário em Aws Cloud Data Engineering pela Compass.UOL, onde esta sendo uma experiência incrivel para mim pois estou adquirindo variados conhecimentos sobre engenharia de dados e tecnologias em nuvem.
+u graduando em Análise e Desenvolvimento de Sistemas 
+Estagiário em Aws Cloud Data Engineering pela Compass.UOL
 
 ## **Contato**
 [![Ícone do Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonevangelista.ti@gmail.com
